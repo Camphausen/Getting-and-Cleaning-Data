@@ -4,9 +4,7 @@ Code Book
 Raw Data
 -------------------
 
-### Collection
-
-Raw data are obtained from UCI Machine Learning repository: [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+UCI Machine Learning repository: [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 #### Data Set Information
 
@@ -26,7 +24,7 @@ For each record in the dataset it is provided:
 See Readme file into 'UCI HAR Dataset' for more information.
 
 
-Raw Data transformation
+Raw Data Transformation
 -------------------
 
 The raw data sets are processed with the script run_analysis.R script to create a tidy data set.
