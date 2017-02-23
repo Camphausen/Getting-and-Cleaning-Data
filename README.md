@@ -1,9 +1,5 @@
-# Getting-and-Cleaning-Data
-Coursera - Data Science; Assignement for  Course 3 / Week 4
 Getting-and-Cleaning-Data
-=========================
-
-Getting and Cleaning Data Course Project (Coursera)
+Coursera - Data Science; Assignement for  Course 3 / Week 4
 
 Description
 -----------
