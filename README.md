@@ -27,4 +27,4 @@ What you find in this repository
 * run_analysis.R: R script to transform raw data set in a tidy one
 
 
-This script's put is the file 'sensordata_avg_subject.txt' which contains the tidy dataset.
+ run_analysis.R creates a file 'sensordata_avg_subject.txt' which contains the tidy dataset.
